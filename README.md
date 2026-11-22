@@ -90,7 +90,7 @@ plt.axis('off')
 ```
 Output
 
-Original Image
+# Original Image
 
 <img width="490" height="510" alt="image" src="https://github.com/user-attachments/assets/a75e5cf8-e508-42d8-af45-20c9a7a6b8cf" />
 
@@ -98,7 +98,7 @@ A text image containing characters is displayed.
 
 The image serves as the input for morphological processing.
 
-Erosion
+# Erosion
 
 <img width="481" height="506" alt="image" src="https://github.com/user-attachments/assets/406b38ee-e8b5-496c-9d94-3c1f866d5420" />
 
