@@ -88,7 +88,7 @@ plt.imshow(cv2.cvtColor(dilated_image, cv2.COLOR_BGR2RGB))
 plt.title("Dilated Image")
 plt.axis('off')
 ```
-Output
+### Output
 
 # Original Image
 
